@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'futura';
+}
+
+@font-face {
+    font-family: 'futura'
+}
+
+}
+
+h1{
+	font-family: "futura";
+	font-size: 90px;
+	margin-top: 3vh;
+	margin-bottom: 1vh;
+}
+
+.row{
+	margin-bottom: 4vh;
+	margin-left: 3vw;
+	margin-right: 3vw;
+}
+
+.btn{
+	font-family: "futura";
+	font-size: 16px;
+	background-color: #36771c;
+	color: white;
+	padding: 1vh 1vw;
+}
+
+.btn:hover{
+	color: #ed07;
+}
+
+.btn:focus{
+	outline: 2px solid #ed07;
+	background-color: #1680bc;
+	color: #ed07;
+}
+
+.one-button{
+	margin: .5vh 1vw;
+}
+
+.dotted-border{
+	border: 10px dotted #ed07;
+}
+
+.gif-image{
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+
+.individual-gif-container{
+	float: left;
+	margin: 2vh 3vw 2vh 3vw;
+}
+
+#submit{
+	margin-top: 1.5vh;
+}
+
+
+#gif-container{
+	font-size: 22px;
+}
